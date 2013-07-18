@@ -14,6 +14,6 @@ HOW TO USE
 
 Tested Distros
 ==============
-Debian
+Debian  
 Ubuntu
 
